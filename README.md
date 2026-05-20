@@ -27,6 +27,10 @@ I create various things in the digital world and continue learning along the way
 ### &nbsp; Github Statistics &nbsp;
 
 <div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HaimiyaWasn&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
   <img
     src="https://github-readme-stats.zcy.dev/api?username=HaimiyaWasn&show_icons=true&theme=dracula"
     height="165"
