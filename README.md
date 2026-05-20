@@ -27,7 +27,8 @@ I create various things in the digital world and continue learning along the way
 ### &nbsp; Github Statistics &nbsp;
 <div align="center" items="center">
 
-  ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=HaimiyaWasn&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=HaimiyaWasn&layout=compact&theme=dracula)
+  ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=HaimiyaWasn&show_icons=true&theme=dracula) 
+  ![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=HaimiyaWasn&layout=compact&theme=dracula)
 
 </div>
 
