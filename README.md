@@ -29,9 +29,11 @@ I create various things in the digital world and continue learning along the way
 <div align="center">
   <img
     src="https://github-readme-stats.zcy.dev/api?username=HaimiyaWasn&show_icons=true&theme=dracula"
+    height="165"
   />
   <img
     src="https://github-readme-stats.zcy.dev/api/top-langs?username=HaimiyaWasn&layout=compact&theme=dracula"
+    height="165"
   />
 </div>
 
