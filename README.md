@@ -31,14 +31,14 @@ I create various things in the digital world and continue learning along the way
     src="https://github-readme-streak-stats.herokuapp.com/?user=HaimiyaWasn&theme=tokyonight&hide_border=true" 
     height="165"
   /> <br />
-  <img
+  <!-- <img
     src="https://github-readme-stats.zcy.dev/api?username=HaimiyaWasn&show_icons=true&theme=dracula"
     height="165"
   />
   <img
     src="https://github-readme-stats.zcy.dev/api/top-langs?username=HaimiyaWasn&layout=compact&theme=dracula"
     height="165"
-  />
+  /> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
